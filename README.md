@@ -1,3 +1,3 @@
 # PhotoWF
 
-![Mockups](https://www.github.com/JensGe/PhotoWF/PhotoWF.png)
+![Mockups](https://github.com/JensGe/PhotoWF/blob/master/PhotoWF.png)
